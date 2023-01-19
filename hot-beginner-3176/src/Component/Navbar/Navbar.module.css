@@ -1,0 +1,31 @@
+.secondStoreEevent,.secondAccountEevent {
+    /* border: 1px solid red; */
+    margin-left: 100px;
+    font-family: lato;
+    font-size: 15px;
+    color: rgba(39,79,64);
+    background-color: rgba(0,0,0,0);
+    line-height: normal;
+    vertical-align: baseline;
+    letter-spacing: 0.25px;
+    font-weight: 500;
+    text-transform: uppercase;
+    text-align: left;
+}
+.secondAccountParrentEevent{
+    /* border: 1px solid red; */
+    margin-right: 90px;
+}
+.secondAccountEevent{
+    /* border: 1px solid red; */
+    border-style: none;
+}
+.parentInputbox{
+    border: 1px solid red;
+    margin: 0px 100px;
+}
+.navbarList{
+    border: 1px solid blue;
+    margin: 0px 100px;
+    
+}
