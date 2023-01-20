@@ -2,20 +2,27 @@ import React from 'react'
 import styles from './Online.module.css';
 const OnlineStore = () => {
     return (
+        <>
+        
+       
         <div className={styles.OnlineStore}>
             <h1 className={styles.OnlineStoreFirst}>LIMITED TIME OFFER</h1>
             
             <div>
                 <h2 className={styles.OnlineStoreSecond}>
-                    ONLINE & IN STORES
+                   <span className={styles.OnlineStoreSecondspan}> ONLINE & IN STORES</span>
+                   <span className={styles.OnlineStoreSecond50per}> 50% OFF THOUSNAD OF HARDCOVER BOOKS</span>
+                   <span className={styles.OnlineStoreSecondspan}> AND MORE DEALS</span>
                 </h2>
             </div>
+            
 
-            <div className={styles.Whiteline}>
-                {/* <h6>white space</h6> */}
+            <div className={styles.whitegapbetween}>
+                <p className={styles.whitegapbetweenText}>Free Shipping on Orders of $40 or More</p>
             </div>
 
         </div>
+        </>
     )
 }
 

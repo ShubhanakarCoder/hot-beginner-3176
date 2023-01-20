@@ -21,11 +21,23 @@
     border-style: none;
 }
 .parentInputbox{
-    border: 1px solid red;
+    border: 1px solid pink;
     margin: 0px 100px;
+}
+.forthNavbarparentInputbox{
+    /* border: 1px solid black; */
+    margin: 0px 100px;
+    height: 50px;
+    display: block;
 }
 .navbarList{
     border: 1px solid blue;
     margin: 0px 100px;
     
+}
+.tenNavbar{
+    border: 1px solid blue;
+    /* margin: px; */
+    /* height: 10px; */
+    padding-right: 30px;
 }

@@ -1,0 +1,13 @@
+.whitespacing{
+    /* border: 1px solid black; */
+    height: 10px;
+    margin-top: 0px 0px 0px 0px;
+}
+.line{
+    border: 1px solid black;
+    margin: 0 90px;
+}
+.paragphFind{
+    border: 1px solid black;
+    font-style:bold;
+}

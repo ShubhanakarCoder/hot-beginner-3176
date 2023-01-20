@@ -1,4 +1,14 @@
+/* * {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0px;
+  font-family: 'segoe ui';
+}
+  */
  /********************** FIRST SLIDING IMAGE ***************/
+
 .first-image-slider-child {
   display: flex;
   align-items: center;
@@ -19,3 +29,21 @@
 /* .second-navbar{
   border: 1px solid red;
 } */
+
+.second-image-slider-child {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-size: cover;
+  height: 450px;
+  /* border: 1px solid red; */
+  background: #3e5962;
+}
+
+.second-image-slider-child span {
+  /* padding: 20px; */
+  font-size: 20px;
+  /* font-weight: bold; */
+  /* background:white; */
+  /* text-align: center; */
+}

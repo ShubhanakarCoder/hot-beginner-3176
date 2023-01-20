@@ -1,0 +1,25 @@
+.MainBox50BannerBox{
+    /* border: 1px solid red; */
+    /* height: 200px; */
+    /* background-color: red; */
+    margin: 0px 90px;
+    margin-top: 70px;
+}
+
+.MainBox50BannerBox img{
+    /* border: 1px solid red; */
+    height: 400px;
+    width: 100%;
+}
+.NowInPaperback{
+    margin: 0px 90px;
+    margin-top: 30px;
+    /* border: 1px solid red; */
+}
+
+
+.Booksboxes{
+    margin: 0px 90px;
+    margin-top: 30px;
+    border: 1px solid red;
+}

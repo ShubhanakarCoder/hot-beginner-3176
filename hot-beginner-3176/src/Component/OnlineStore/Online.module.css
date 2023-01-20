@@ -1,18 +1,53 @@
 .OnlineStore{
-    border: 1px solid red;
-    height: 60px;
+    /* border: 1px solid red; */
+    height: 90px;
     background-color: #ffeac1;
+    
 }
 .OnlineStoreFirst{
     text-align: center;
-    font-size: 15px;
-    border: 1px solid red;
+    font-size: 12px;
+    /* border: 1px solid red; */
     margin-top: 0px;
+    font-weight: 600;
+    
 }
 .OnlineStoreSecond{
     margin-top: 0px;
+    /* border: 1px solid blue; */
+    text-align: center;
+    font-family: Arial, Arial, Helvetica, sans-serif;
 }
-.Whiteline{
-    border: 1px solid red;
-    margin-top: 0px;
+.OnlineStoreSecondspan{
+    /* border: 1px solid red; */
+    font-size: 16px;
+    font-style: italic;
+    font-weight: 600;
+}
+.OnlineStoreSecond50per{
+    /* border: 1px solid red; */
+    background: linear-gradient(150deg,#b37448 14%,#ffff 27%,#fa700e 31%,
+    #ffffff 33%, #7c4116 55%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.whitegapbetween{
+    border: 1px solid rgb(14, 11, 11);
+    margin-top: -15px;
+    background-color: #3e5962;
+    height: 35px;
+}
+.whitegapbetweenText{
+    /* border: 1px solid red; */
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    margin-top: 5px;
+    color: rgb(246.243,243);
+    background-color: rgba(0,0,0,0);
+    font-size: 19px;
+    font-family: lato;
+    letter-spacing: 0.47;
+    font-weight: 600;
+    
 }
