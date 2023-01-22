@@ -71,6 +71,7 @@ const Banner = () => {
       <div className="first-image-slider-parent">
         <div  className='first-image-slider-child' >
           <span>FREE SHIPPING ON ORDERS OF $40 OR MORE</span>
+          
         </div>
       </div>
       <div className="first-image-slider-parent">
